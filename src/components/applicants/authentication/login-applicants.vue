@@ -10,7 +10,7 @@ export default {
   name: "login-applicants",
   methods: {
     Authenticate(){
-      this.$router.push(`fastjob/applicants/1`)
+      this.$router.push(`fastjob/applicants/1/job-portal`)
     }
   }
 }

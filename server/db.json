@@ -1,3 +1,13 @@
 {
-
+  "applicants": [
+    {
+      "id": 1,
+      "firstName": "Edward Jordy",
+      "lastName": "Ticlavilca Inche",
+      "email": "eduard.coar@gmail.com",
+      "password": "thisIsSomeStrongPassword",
+      "profilePhoto": "https://conceptdraw.com/a3208c3/p1/preview/640/pict--applicant-hr-workflow-vector-stencils-library",
+      "age": 19
+    }
+  ]
 }
