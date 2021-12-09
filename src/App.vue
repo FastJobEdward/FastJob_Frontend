@@ -18,8 +18,10 @@ export default {
   padding: 0;
   font-family: 'Fjalla One', sans-serif;
   scroll-behavior: smooth;
+  font-size: 15px;
 }
 body {
   background-color: #F7F8F3;
 }
+
 </style>
