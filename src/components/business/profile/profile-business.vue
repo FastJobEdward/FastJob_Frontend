@@ -1,10 +1,10 @@
 <template>
-  <div>Welcome to your Applicant Profile</div>
+  <div>Welcome to your Business Profile</div>
 </template>
 
 <script>
 export default {
-  name: "profile-applicant"
+  name: "profile-business"
 }
 </script>
 

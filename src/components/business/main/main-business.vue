@@ -5,17 +5,13 @@
       <div class="nav-links">
         <ul>
           <li>
-            <a @click="goToJobPortal">Job Portal</a>
-          </li>
-
-          <li>
-            <a @click="goToYourApplications">Your Applications</a>
+            <a @click="goToYourWorkOffers">Your Work Offers</a>
           </li>
 
           <li class="v-size--small">
-            <v-btn icon :to="{name:'ProfileApplicant', params:{applicantId:currentUser.id}}">
+            <v-btn icon :to="{name:'ProfileBusiness', params:{businessId:currentBusiness.id}}">
               <v-avatar>
-                <img class="profile" v-bind:src="currentUser.profilePhoto" alt="Applicant profile photo">
+                <img class="profile" v-bind:src="currentBusiness.profilePhoto" alt="Business profile photo">
               </v-avatar>
             </v-btn>
           </li>
@@ -78,12 +74,12 @@
 
                 <v-card-actions>
                   <v-spacer></v-spacer>
-                    <div class="text-center mt-3 button">
-                      <v-btn @click="Logout" rounded color="#002C3E" dark >Logout</v-btn>
-                    </div>
-                    <div class="text-center mt-3 button">
-                      <v-btn @click="logoutDialog = false" rounded outlined color="#002C3E" dark >Go back</v-btn>
-                    </div>
+                  <div class="text-center mt-3 button">
+                    <v-btn @click="Logout" rounded color="#002C3E" dark >Logout</v-btn>
+                  </div>
+                  <div class="text-center mt-3 button">
+                    <v-btn @click="logoutDialog = false" rounded outlined color="#002C3E" dark >Go back</v-btn>
+                  </div>
 
                 </v-card-actions>
               </v-card>
@@ -97,39 +93,36 @@
 </template>
 
 <script>
-import ApplicantsService from "../services/applicants.service"
+import BusinessService from "../../business/services/business.service";
 
 export default {
-  name: "main-applicants",
+  name: "main-business",
   data(){
     return {
-      currentUser: {},
+      currentBusiness: {},
       errorDialog: false,
       logoutDialog: false
     }
   },
   mounted() {
-    this.retrieveCurrentUser();
+    this.retrieveCurrentBusiness();
   },
   methods: {
-    retrieveCurrentUser(){
-      ApplicantsService.getById(this.$route.params.applicantId)
+    retrieveCurrentBusiness(){
+      BusinessService.getById(this.$route.params.businessId)
           .then(response => {
-          console.log(response.data);
-          this.currentUser = response.data;
+            console.log(response.data);
+            this.currentBusiness = response.data;
           })
-         .catch(error => {
-           this.errorDialog = true;
+          .catch(error => {
+            this.errorDialog = true;
             console.log(error);
-         });
+          });
     },
 
 
-    goToJobPortal(){
-      this.$router.push({name:'JobPortal',params:{applicantId:this.currentUser.id}});
-    },
-    goToYourApplications(){
-      this.$router.push({name:'Applications',params:{applicantId:this.currentUser.id}});
+    goToYourWorkOffers(){
+      this.$router.push({name:'WorkOffers',params:{businessId:this.currentBusiness.id}});
     },
 
 

@@ -31,6 +31,24 @@ const routes = [
       }
     ],
     meta: { protectedRoute: true }
+  },
+  {
+    path: '/fastjob/business/:businessId',
+    name: 'MainBusiness',
+    component: () => import(/* webpackChunkName: "mainBusiness" */ '../components/business/main/main-business'),
+    children: [
+      {
+        path: '/fastjob/business/:businessId/work-offers',
+        name: 'WorkOffers',
+        component: () => import(/* webpackChunkName: "workOffers" */ '../components/business/work-offers/work-offers')
+      },
+      {
+        path: '/fastjob/business/:businessId/profile',
+        name: 'ProfileBusiness',
+        component: () => import(/* webpackChunkName: "profileApplicant" */ '../components/business/profile/profile-business')
+      }
+    ],
+    meta: { protectedRoute: true }
   }
 ]
 

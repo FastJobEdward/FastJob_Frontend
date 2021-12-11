@@ -9,5 +9,177 @@
       "profilePhoto": "https://conceptdraw.com/a3208c3/p1/preview/640/pict--applicant-hr-workflow-vector-stencils-library",
       "age": 19
     }
+  ],
+  "business": [
+    {
+      "id": 1,
+      "name": "KM Digital",
+      "ruc": 20509700789,
+      "description": "We are a Digital Agency focused on transforming brands, specialist in Digital Strategy, SEO, Ecommerce, Web Design, Innovation and FE.",
+      "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSERMQEhAQExUSFhYSFhYYFxgVEhETFR0iFxkcGBYaHSgiGBsnGxgbIjEiJy8rLi4uGh8zODMsNygtLisBCgoKDg0OFxAQGDUkHiU3LS03LisrLS0sNistLS0tLS0uLisrLS0tLy0tLS0tLTErNS0rLS0tLTctKy0tKzUtK//AABEIALAAtQMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQQFBgcDAv/EAD8QAAICAgADBQUEBwYHAQAAAAECAAMEEQUSIQYTMTKBFCJBUcEHYXGRI0JSgqGxsxU1dIOy0SUzYnJzdfA0/8QAGQEBAQADAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEBAAICAAUEAgMAAAAAAAAAAAECAxEEBRIhMUFRYaEicRMykf/aAAwDAQACEQMRAD8A7jERAREQEREBERAREQEREBERAREQEREBERAREQKmV5vT6mRJyvN6fUyJUXIiJFIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIFTK83p9TIk5Xm9PqZEqLkREikREBERAREQEREBERAREQEREBERAREQERECpleb0+pkScrzen1MiVFyIkbkVMSNyYCJG5O4CI3I3AmJG4JgTEjcmAiJG4ExI3JgIkbkwEREBERAqZXm9PqZEnK83p9TIlRbMx/FuJ1YtTX3NyVprmbTHl5iFHuqCfEj85kDNQ+1j+6sn/K/qpFY3MQl7arMr/A+1+HmWGnHu7x1U2EcjrpQQCduoHiwmwThn2If3hb/hn/AKlc7kTM81IpfUNeG/VXcolbNzUqUtY6oPmTr8vmZrPaXtgtJNVPK7jxbxSv7vvP4eHxmr+yPaBk51zJW2+Xe+8s+5F/VX7yPQeM3Y+FmYi1u0fbjz8wiszXHG5jz7R+22XdtKy3d49Vt7/AAaB9Ts69JkMK3Ms0XrppX5Hdj/wIA/Pcp9muI4OxRj+6x+asC+hvzMOp1M7xDProQ2WMFUeJ+/5CYZIiJ6a1/wB8tmC02r12vEx8eIWEB11Oz93QH02ZrXbji2VjrirhjGNuTkLjjvw5rG0d9nkII6oOvX8J74va/FdxWLNMx0NqwG/gNkaHiJS7dH9Nwr/2Cf0rZqtS1f7Rp1Y8tLx+M7eGL2izcayqvieNjqlzrWuTjOxoW198osR9Om+ihuo3+ImxYOYzZGRUbMYiruyqI28isOpJ79f1dkbXXiJrn2l5iWYzcORg+TlslVVa9XQ8wY2MB1VVALcx+Qmrdobra7+0TVFwy08PUsuw6V8urSNdd8hYg/dMWx1HG4zj2WNTXk472r5q1sRrF/FQdj8pjOK8Zeh8pi2K60YhylpDkZTFOYsXB2BUdABgDo78Zqfavs/w6jhRysKuiuyitbsbIq5RazJ1B73xs2Ad7J2Nzx46Ws4lm6BLWcBfQHmLM51A3jsv2jpzqa7araS7V12WVJYtj0M43yvrqCOo6gdVPylzC4zjXO1dOTj2unmVLEd0+HvKp2OvznNr8Wirs/jXUV11C+rCry7qkVbGpJVby7qNnxYE7+Jlzt3wjBwsGvNxKcem7GsoeiyoKr2KbFRwWHWxSjtvZPjuBtfCuNWWcRzcNggrxkxnQgEOTcGLcx3o9VGtAes2OaX2fH/G+K/+LB9fdf8A2m6QEREBERAqZXm9PqZEnK83p9TIlRbM1D7WP7qyf8r+qk2+ah9q4J4Vk68f0Xr+lSWk6tDDLG6y539iJ/4hb/hn/wBdc3ntp2n5Scak6bwdx4rv4Kfmfn8JrPBOD/2VR3zMfbMmsoF8ForJBJI/a6L+90HTZOKFnUMw5hssebysfEgn4+P8Z6mLBGS85Jjt6ft4XF8XOOn8NZ7z5+IbZ2M7NG0jItHuDqin9c76Mfu38J6/aWNPQPgFcfL4r4TauzfF68ioFNKV0rJ4FD8vw+U1b7TR+kp/7X/ms148l78THVHj0Z5sOPHwUzSd71uWCwazj5eM2zpu5f5+7YBz/wCpvym0faZkarpr/aYsfwUf7sJge1FBFWDaOhahF38ioBH+r+EsdtMjv78dFIPPWhX4jdh6fyE298l6Xn5+nPWYx4smKPWY+2v8Qw+67oAkl6ktP4ts6/lOscU4LRlKi31lwh51HMy6YqUJ91h15WYfnOfdvawuSFA0FqQa/Dm19JtP2h8WvxsIeyuq5F91ONSSAwD2sB4EEb1vxB/Cc/GW6qUn327eV06L5K+0sh2f7J4WDv2XGrqJGiw5msI8dF2JbXU/H5S3VwehLb8lat25Cqtp5ie8FYIUcpPKOmx0A38ZhuG9qg3CBxN/FKGssXw1agKupHTr3ikfDxlX7NeOZV+PeM5l7/HuKuQFVQjIti70ABoOR+74zgey0uzgNOR3lOJ2fy8PJvBqsvtUri49bECxqyXKt7vMAEUb3Oq08DoW4ZIT9KKVxucljulTzBeUnl83Xet/fMdw3t5w7Iv9lpzKnt3oL7wVz8kcjlc/9pM++N9scLDd68nJWplVXIIffK5IXl5V947U9B1A6wPXhXZHCxmuanFrT2leW1Rso69fd7skoAdnYAAPx3MZX9mvC1FnLhqvfa5/ftGwGDgD3xyjmVToa8NT07Mcca7I4jz281NFlRq2AoSp6VsJ8AfiT16zIN2pxBiLnteEx2G1sdXTm30HKrKGJOjoAdR1G4F3H4XUl1uSqatvFa2NzMecVbCDl3oa5j4Ab+MyO5geBdqsTNR3xL0u5BthpldfkWRgGAOuh11mq9nPtEozsGzeWmPlpjWX3MlNjpjKnQuFYEWBeZW5eZt7MDpETXuIdqsTGxqsnIylWu1UKOVbmt5gDta1BbqCD0HTct8L45j5NAyaLkerqS+9KuvMH2NqQOpB1Ay0TWeFdvOHZN3s1GZU9u9BdMA5/wChmAV/3SZsu4FXK83p9TIk5Xm9PqZEqLUocaprapu98iFbW34fomFg3920EyGp45FCupV1DKfEEAg+hiJ790tEzHby45xPMfLyC2iTYQqL4EL4KB+G/H5kzo2P2Yq9lGMw3+sWHQizXVh8vkPumTo4RQjBkopUj4hFBHqBL06s3FTaKxWNRDzuG5fFJtbJ3mXI7q7+HZHQkEeB/UtTfl1/8ZZ7YcVXKXHtXp0cMP2W906++dKycJLABZWjgddMoYA+onh/YuPrXs9GuvTu10CfH4fh+UzjjK9UXtHePZpnlt4i1KX/ABn0mPDVO0eMX4VjOB/y0qY/PlKcp/mD6TBdmA1+bRzDYq5R9yrWDy/xA/OdTWheUIFHLrl1ocvKBrWvlPPHwq6/+XWib6nlULs+gmNOL6aTXXnf225OXzbJW8T41v505v8AaH/+w/8AjX0GzM52yIszeD4x8WybMj0xqmbf5sJtGVwumw81lNTnw2yKTr8SDPt8KtnW01obEDBHKgvWG6MFbWwDrqAZpy5eula68Ojh+GnFkvbfmduU8QqYZ1vAQrd3l5tWeD4qMQg3Xr08v6WvQB/anv2rxrRbx2ioM3f04WUETYc1qRXeF+ZZK2HT5zqLYaGwXGtDYqlA/KDYqE7IDeOug6fODhV973/doLCoQ2cq94UB2FL63yg7Ot66zS7HOu2XHOG5HCbK8a/FZlpNmPWhUXUtWOcEIPerI5TvoPl13L3DKEt461zrzOnDscqT8C1hJP49Ad+I6zbD2exCzscPF5rQVsbuULWKfEOdbYH75arwa1c2LVWHKrWXCgMUXygnxIBJ0N9NwOXZPZvKzszjFVGf7PU1tS2U90HGQTSvRrAysikdCFPgZ8W8XL18Iz3TGqr9ntrrNgcYWNl+6qM4U+6OVXC9em/MPGdVpw0Vnda0VrSDYwUBrCBoFjrbaHTrPNOGUir2cUVCrXL3QRRVy72Rya5dbPhA0Hs0aG4kxqu/tDJsof2nLrcJj0V9O7rSusd23MfgzFl5d7MocB4pS3Zu/EFtftFGHlrbSWBurKlgxNZPNy7YdfDqJ0/A4dTQvd0UVVL48taKib+elAE8bOCY7O9jY1Be1DXY5rQvbW2uZXbW2U/FSdH5QNB7LKH4lw1WAIq4HVbX8eR2dEJH7vSY/j9Dd72gpqQlFPDrnrTe2QgNkaA/aRTseJnU6eHVKy2LRUrrWKVYIoZKh1FYIHRAQPdB1HsaobLa6qhbYBzNyqGtZBpA7AAtrwGz0EDnXb3j3DruFOMXIxWspRbsdayveUNW6nYQda9feB6zp9LbUH5gTmN/AM3MDY1nCMHh6WsvtOSj1u+RWp2VqVFDDm14uegY/GdQA10gVsrzen1MiTleb0+pkSouRESKREQEREBERAREQEREBERAREQEREBERAREQKmV5vT6mRJyvN6fUyJUXIiJFIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIFTK83p9TIk5Xm9PqZEqLkREikREBERAREQEREBERAREQEREBERAREQERECpleb0+pkScrzen1MiVFyIiRSIiAiIgIiICIiAiIgIiICIiAiIgIiICIiBUyvN6fUyJOV5vT6mRKj/9k=",
+      "economicActivityId": 38
+    }
+  ],
+  "economicActivities": [
+    {
+      "id": 1,
+      "name": "Agriculture"
+    },
+    {
+      "id": 2,
+      "name": "Livestock"
+    },
+    {
+      "id": 3,
+      "name": "Fishing"
+    },
+    {
+      "id": 4,
+      "name": "Mining"
+    },
+    {
+      "id": 5,
+      "name": "Plastics industry"
+    },
+    {
+      "id": 6,
+      "name": "Textile industry"
+    },
+    {
+      "id": 7,
+      "name": "Chemical industry"
+    },
+    {
+      "id": 8,
+      "name": "Petroleum industry"
+    },
+    {
+      "id": 9,
+      "name": "Automotive industry"
+    },
+    {
+      "id": 10,
+      "name": "Food industry"
+    },
+    {
+      "id": 11,
+      "name": "Aeronautics industry"
+    },
+    {
+      "id": 12,
+      "name": "Astronautics industry"
+    },
+    {
+      "id": 13,
+      "name": "Robotics industry"
+    },
+    {
+      "id": 14,
+      "name": "Pharmaceutical industry"
+    },
+    {
+      "id": 15,
+      "name": "Cosmetics industry"
+    },
+    {
+      "id": 16,
+      "name": "Shipping industry"
+    },
+    {
+      "id": 17,
+      "name": "Paper industry"
+    },
+    {
+      "id": 18,
+      "name": "Armament industry"
+    },
+    {
+      "id": 19,
+      "name": "Household appliance industry"
+    },
+    {
+      "id": 20,
+      "name": "Energy industry"
+    },
+    {
+      "id": 21,
+      "name": "Retail and wholesale trade"
+    },
+    {
+      "id": 22,
+      "name": "Transportation and warehousing"
+    },
+    {
+      "id": 23,
+      "name": "Air transportation"
+    },
+    {
+      "id": 24,
+      "name": "Accommodation and food services"
+    },
+    {
+      "id": 25,
+      "name": "Information and communications"
+    },
+    {
+      "id": 26,
+      "name": "Financial and insurance activities"
+    },
+    {
+      "id": 27,
+      "name": "Real estate activities"
+    },
+    {
+      "id": 28,
+      "name": "Professional, scientific and technical activities"
+    },
+    {
+      "id": 29,
+      "name": "Administrative and support service activities"
+    },
+    {
+      "id": 30,
+      "name": "Public administration and defense"
+    },
+    {
+      "id": 31,
+      "name": "Education"
+    },
+    {
+      "id": 32,
+      "name": "Human health care and social work activities"
+    },
+    {
+      "id": 33,
+      "name": "Arts, entertainment and recreation activities"
+    },
+    {
+      "id": 34,
+      "name": "Activities of associations"
+    },
+    {
+      "id": 35,
+      "name": "Consulting"
+    },
+    {
+      "id": 36,
+      "name": "Financial planning"
+    },
+    {
+      "id": 37,
+      "name": "General design"
+    },
+    {
+      "id": 38,
+      "name": "Information technology"
+    },
+    {
+      "id": 39,
+      "name": "Research and development (R&D)"
+    },
+    {
+      "id": 40,
+      "name": "Information generation"
+    }
   ]
 }

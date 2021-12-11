@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Login page</h1>
-    <v-btn @click="Authenticate">Sign in</v-btn>
+    <h1>Login page for Applicants</h1>
+    <v-btn @click="Authenticate">Sign in Applicants</v-btn>
   </div>
 </template>
 
